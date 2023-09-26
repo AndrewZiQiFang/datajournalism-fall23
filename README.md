@@ -18,8 +18,9 @@ This is my repository for data journalism DC Northwestern Medill fall 2023.
 
 ## This is a table of the class 
 
-|------------------|
+|---------|---------|
 |Name | Concentration|
+|---------|---------|
 |Nicole | PPFA|
 |Meaghan | PPFA|
 |Annie | MIL| 
