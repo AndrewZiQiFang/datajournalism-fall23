@@ -1,5 +1,7 @@
 # Short Pitch: After U.S. arms were sold to Taiwan, how many did they send? 
 
+## by Andrew Zi-Qi Fang, Northwestern University
+
 *Why this story is timely now*
 
 Since Russia's invasion of Ukraine, the U.S. noticed that it is still possible for any regime like China to annex Taiwan. During a late September hearing on Defense Cooperation with Taiwan, many of the committee members asked for a faster speed to send the weapons to the island under growing threats from Chinese President Xi. Rep. 
