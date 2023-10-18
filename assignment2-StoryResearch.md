@@ -1,16 +1,14 @@
-# Assignment 2: What's out there
-## Story research
+# Assignment 2: What's out there | Story research
+## What has already been done? 
 
-One of the first steps in taking on any enterprise story is seeing what's been done already. 
+## Three high-quality datasets
+*At least three*
 
-On your own or in your group, look for any examples you can find of news reports that are similar to the story you'll be working on for your final project. 
+1. Department of State: Congressional Budget Justification
+🔗[Congressional Budget Justification, Department of State, Foreign Operations, and Related Programs(FMF)](https://www.state.gov/wp-content/uploads/2021/05/FY-2022-State_USAID-Congressional-Budget-Justification.pdf)
 
-Write a summary for your editor (me) of what has already been done and -- more importantly -- what _hasn't_ been done that you hope to tackle. For example, if you're doing a story on increasing police budgets, you might find several articles about inflated police department budgets in cities across the country, but maybe it hasn't been done in DC? Or maybe you're seeing lots of reports on budgets going up -- but you want to see where have police departments actually shrunk, and how that's affected public safety? 
+This report might not be specific, but it provides an overview of the proportion of the Department of State's funding to foreign countries. The figures relevant to my pitch about Taiwan were categorized under "East Asia and Pacific" and mostly did not specify Taiwan. An [Op-Ed](https://www.aei.org/op-eds/send-more-aid-to-taiwan-before-its-too-late/) of the think tank AEI pointed out that "Just 2 percent of the State Department’s most recent FMF budget request was for East Asia and the Pacific. FMF funding for Taiwan should reflect its status as a critical partner in our primary theater and threatened by our pacing adversary."
 
-In your summary, include links to the stories you find on your topic.
 
-In addition to searching for other stories that have been done on this topic, please identify at least three high-quality datasets you could use in your story (you can change your mind on these later, but this is just to get you thinking about what's out there). For each, please write why the data source is trustworthy and what (if any) limitations it might have.
+2. 
 
-Be prepared to discuss with me and the class what you find. 
-
-[Congressional Budget Justification, Department of State, Foreign Operations, and Related Programs](https://www.state.gov/wp-content/uploads/2021/05/FY-2022-State_USAID-Congressional-Budget-Justification.pdf)
