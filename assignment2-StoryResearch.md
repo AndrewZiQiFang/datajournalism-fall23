@@ -1,5 +1,4 @@
 # Assignment 2: What's out there
-
 ## Story research
 
 One of the first steps in taking on any enterprise story is seeing what's been done already. 
@@ -13,3 +12,5 @@ In your summary, include links to the stories you find on your topic.
 In addition to searching for other stories that have been done on this topic, please identify at least three high-quality datasets you could use in your story (you can change your mind on these later, but this is just to get you thinking about what's out there). For each, please write why the data source is trustworthy and what (if any) limitations it might have.
 
 Be prepared to discuss with me and the class what you find. 
+
+[Congressional Budget Justification, Department of State, Foreign Operations, and Related Programs](https://www.state.gov/wp-content/uploads/2021/05/FY-2022-State_USAID-Congressional-Budget-Justification.pdf)
