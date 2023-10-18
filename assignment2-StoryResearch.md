@@ -24,8 +24,11 @@ Overall, there is not much coverage with data or visualized information on the i
 
 As for Taipei's updates about the transfer of arms they purchased from the U.S., there isn't collective data or reports made by the officials. I viewed some Taipei think tanks I know but found a few clues. However, since it is rare and slow for American contractors and Washington to deliver the weapons,  I expect that I can track each of the deliveries at least in the past five to seven years. 
 
+The Taiwanese government expanded its budget for military purchasing from foreign countries. I still find the story newsworthy. 
+
+* [MND budgets additional corporal ranks for new conscription draftees](https://focustaiwan.tw/politics/202309170011)
+
 ## Three high-quality datasets
-*At least three*
 
 1. Department of State: Congressional Budget Justification
 
