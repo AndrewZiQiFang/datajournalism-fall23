@@ -25,8 +25,7 @@ The latest data published by the Department of State is the Foreign Military Fin
 
 This report sorted the spending by countries or continents. The aid toward Taiwan is included in “State East Asia and Pacific Regional” which is under the sum of “East Asia and Pacific.” The way that the Department of State sorted its funds affects the way I visualize the data. Since many of the items are sorted as a region of fund for particular usage, a *map* is not a proper format to show the FMF. 
 
-<iframe title="Department of State's Foreign Military Finance (FMF) " aria-label="Split Bars" id="datawrapper-chart-9XycI" src="https://datawrapper.dwcdn.net/9XycI/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="333" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:333px"><noscript><img src="https://datawrapper.dwcdn.net/9XycI/full.png" alt="" /></noscript></div>
 
 First, the above chart shows that most of the FMF was spent in the Near East, which refers to the Middle East, including Israel, and North African countries such as Morocco and Tunisia. With this overview, readers can immediately realize that the FMF didn’t go to allies besides China and Russia. 
 
