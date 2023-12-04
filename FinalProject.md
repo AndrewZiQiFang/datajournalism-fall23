@@ -34,7 +34,7 @@ Although the situation did not change dramatically from fiscal year 2020 to 2022
 
 After *cleaning up* the sums and other irrelevant items, I *sorted* the dataset to the ranking of the fiscal year. Other than the staggering amount of finance toward Israel, Washington added a new fund named “Countering PRC Malign Influence Fund” with 50,000 thousand. If this is added up with “State East Asia and Pacific Regional”, the number will be 100,000 thousand. 
 
-<div style="min-height:765px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/CZ7NR/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/CZ7NR/full.png" alt="" /></noscript></div>
+<div style="min-height:765px"><img src="https://datawrapper.dwcdn.net/CZ7NR/full.png" alt="" /></noscript></div>
 
 
 ## Limits
